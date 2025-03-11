@@ -13,7 +13,7 @@ The goal is to implement and compare various machine learning algorithms to clas
 - **Scikit-learn** (for machine learning algorithms)
 
 ## Project Structure
-The dataset and code files are provided in an archive, which should be extracted into a working directory. The relevant files for this part are located in the **part1/** folder:
+The **part1/** folder:
 
 - `linear_regression.py` - Implementation of linear regression
 - `svm.py` - Implementation of support vector machines
